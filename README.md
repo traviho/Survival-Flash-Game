@@ -1,1 +1,2 @@
 # Survival-Flash-Game
+This is my unfinished Survival Game written in actionscript 3 and using the program Adobe Flash Professional CS6. About half of the images in the game I created using a mix of inkscape and adobe photoshop cs6--you can probably tell which images these are (the player). I originally had the intention of creating a story in the game with both an end and end boss. Due to my decision to no longer finish this version of the game, however, it is instead a kind of sandbox game with unbalanced aspects to it.
