@@ -4,6 +4,7 @@
 	public class forestTree extends MovieClip{
 		private var _root:*;
 		public var health:int = 49;
+		public var speed:int = 0;
 		public var isAttackReady:Boolean = false;
 		public var reloadCount:int = -999;
 		public var hasNoKnockback:Boolean = true;
